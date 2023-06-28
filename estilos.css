@@ -1,0 +1,29 @@
+body{
+    background-color:#485b92;
+    color:#c3daff;
+    font-family: 'Playfair Display', serif;
+}
+
+h3{
+    color:#f6e9a4;
+    font-size:23px;
+}
+/*Esto es un comentario*/
+
+h1,p {
+    color:#ffc3f4;
+}
+
+img{
+    width: 280px;
+    height:100;
+    border-style:double dotted;
+    border-color:#797e07;
+    margin-left:20px;
+    margin-bottom:40px;
+    padding:20px;
+
+}
+a,small{
+    color:#00ffbf;
+}
